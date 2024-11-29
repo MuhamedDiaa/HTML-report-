@@ -16,7 +16,7 @@
         <address>
             <p>6 street of ahmed maher</p>
             <p>dakahleiya,elmansoura</p>
-            <p>Email: <a href="MohamedDiaa@yahoo.com">contact@example.com</a></p>
+            <p>Email: <a href="MohamedDiaa@yahoo.com">MohamedDiaa@yahoo.com</a></p>
         </address>
     </section>
 
